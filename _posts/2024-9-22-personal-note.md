@@ -3,7 +3,7 @@ title: A Personal Note
 description: >-
   Just a personal note.
 author: Rudra
-date: 2024-09-022 00:09:00 +0800
+date: 2024-09-01T21:39:00+05:30
 categories: [Personal, Note]
 tags: [A Personal Note]
 pin: true
